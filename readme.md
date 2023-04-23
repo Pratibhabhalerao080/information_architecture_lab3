@@ -1,8 +1,8 @@
-Group-7 Lab 3 Exercise
+Group-4 Lab 3 Exercise
 
 |Name       | Email                          |
 |___________|________________________________|
-|Lakshmikar | lakshmikarpolamreddy@gmail.com |
+|Pratibha   | pbhalera@mail.yu.edu 		   |
 |____________________________________________|
 
 # Lab #3: Develop Code Repository and Push Commits 
